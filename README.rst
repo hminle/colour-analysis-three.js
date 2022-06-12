@@ -32,6 +32,7 @@ Run
     -v $IMAGES_DIRECTORY:/home/colour-analysis/static/images \
     -p 8020:5000 colourscience/colour-analysis
 
+Note: replace $IMAGES_DIRECTORY with your absolute directory of "colour-analysis-three.js\static\images"
 Development
 -----------
 
